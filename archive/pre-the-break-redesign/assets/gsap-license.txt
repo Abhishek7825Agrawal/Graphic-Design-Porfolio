@@ -1,0 +1,3 @@
+﻿GSAP is distributed under its Standard 'no charge' license.
+License terms: https://gsap.com/standard-license/
+The portfolio uses GSAP and ScrollTrigger from the GSAP 3 distribution.
